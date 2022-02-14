@@ -28,5 +28,10 @@ Quelques outils que j'ai cree durant le cours. La nomenclature des outils est la
 
 #### blue_analyze_sniffnmap (tcpdump --> nmap --> wireshark)
 Un script simple qui automatise les taches pour l'analyse du traffic avec un host destination dans Wireshark. 
-1. Lancer le script en fournissant un host et un fichier output
-2.  
+```bash
+sudo ./blue_analyze_sniffnmap.sh -t targetlist -o outputpcapfile -V
+
+# requiert sudo pour tcpdump
+# -V  pour le mode verbose
+# -h  pour afficher l'aide
+```
