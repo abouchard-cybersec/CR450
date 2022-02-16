@@ -1,4 +1,4 @@
-# CR450 - Detection et reponses aux Cyber incidents (BLUE TEAM)
+# CR450 - Detection et reponses aux Cyber incidents
 
 Quelques outils que j'ai cree durant le cours. La nomenclature des outils est la suivante:
 
